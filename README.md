@@ -34,3 +34,9 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
     sudo dpkg -i digilent.waveforms_beta_3.20.24_arm64.deb
 ```
 
+```bash
+    sudo systemctl enable ssh
+    sudo systemctl start ssh
+    systemctl status ssh
+```
+
