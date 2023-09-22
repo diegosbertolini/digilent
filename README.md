@@ -7,7 +7,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
  - [Getting Started with Raspberry Pi](https://digilent.com/reference/test-and-measurement/guides/getting-started-with-raspberry-pi)
  - [DWFPY Examples](https://github.com/mariusgreuel/dwfpy/tree/main/examples)
  - [Waveforms Beta Downloads](https://forum.digilent.com/topic/8908-waveforms-beta-download/)
- - 
+
 ```bash
     sudo apt update
     sudo apt install code
